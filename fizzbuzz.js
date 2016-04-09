@@ -1,7 +1,7 @@
 // Place your FizzBuzz code here. 
 
 // Count through numbers 1-20 and figure out if each one is divisible by 3, 5, or both.
-for (i=1; i>=20; i++){
+for (i=1; i<=20; i++){
 // For each number do the following check:
 
 // If divisible by 3
@@ -22,5 +22,6 @@ if (i % 3 === 0){
   console.log(i);  
 }
 }
+
 
 
